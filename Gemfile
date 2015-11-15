@@ -14,6 +14,7 @@ gem 'bootstrap-sass'
 gem 'simple_form'
 gem 'paperclip'
 gem 'masonry-rails'
+gem 'acts_as_votable'
 gem 'devise'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
